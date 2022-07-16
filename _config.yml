@@ -1,3 +1,7 @@
-theme: jekyll-theme-midnight
-title: Konsole Documentation
-description: Documentation for all things big and small
+remote_theme: just-the-docs/just-the-docs
+title: konsole
+description: Documentation for Konsole
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://ooflet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+color_scheme: dark
