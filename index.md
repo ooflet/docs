@@ -2,7 +2,11 @@
 layout: default
 title: Under Construction
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Konsole Documentaion."
 permalink: /
 ---
-Pages are currently under construction. Please give us some time
+# Konsole
+{: .no_toc }
+Not to be confused with the Kde Terminal sharing the same name, Konsole is a beefier Developer Console which can improve your development workflow with useful features and modules.
+
+[View source](https://github.com/ooflet/konsole){: .btn .fs-5 .mb-4 .mb-md-0 }
