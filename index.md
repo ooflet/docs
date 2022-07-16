@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Under Construction
+title: Home
 nav_order: 1
 description: "Konsole Documentaion."
 permalink: /
