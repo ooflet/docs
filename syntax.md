@@ -9,7 +9,7 @@ permalink: /syntax
 {: .no_toc }
 Kommand uses a command prompt style interface, a TUI if you will, and uses prefixes to access different commands.
 
-| Prefix     | Int   | Description  |
+| Prefix     | Mode  | Description  |
 |:-----------|:------|:-------------|
 | >          | 0     | Lua mode, executes Lua code     |
 | *          | 1     | System mode, modify and run system commands|
