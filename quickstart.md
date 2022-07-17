@@ -4,6 +4,7 @@ title: Quickstart
 nav_order: 2
 description: "Quickstart"
 has_children: true
+has_toc: false
 permalink: /quickstart
 ---
 # Quickstart
