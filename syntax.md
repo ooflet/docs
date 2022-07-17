@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Syntax
+title: Prefix
 nav_order: 2
-description: "Syntax"
+description: "Prefix"
 parent: Quickstart
-permalink: /syntax
+permalink: /prefix
 ---
-# Syntax
+# Prefix
 {: .no_toc }
-Kommand uses a command prompt style interface, a TUI if you will, and uses prefixes to access different commands.
+Prefixes are your main way of interacting with Kommand. They show which mode the command will be running in.
 
 | Prefix     | Description  |
 |:-----------|:-------------|
@@ -16,6 +16,4 @@ Kommand uses a command prompt style interface, a TUI if you will, and uses prefi
 | *          | System mode, modify and run system commands|
 | !          | Special mode, run custom modules and commands |
 | ?          | Help mode, run help wizard commands |
-
-When inputting commands, Kommand ignores characters other than the command and arguments, so you are free to type the command and it's arguments in any way. You can do `command argument` or `command(argument)`, whatever floats your boat.
 
