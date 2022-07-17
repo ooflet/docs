@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Syntax
-nav_order: 1
+nav_order: 2
 description: "Syntax"
 parent: Quickstart
 permalink: /syntax
