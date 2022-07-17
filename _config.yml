@@ -4,5 +4,5 @@ description: Documentation for Kommand
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://ooflet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-color_scheme: dark
+color_scheme: BetterDarkTheme
 search_enabled: false
