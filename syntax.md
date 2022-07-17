@@ -5,7 +5,7 @@ nav_order: 2
 description: "Syntax"
 permalink: /syntax
 ---
-# Kommand
+# Syntax
 {: .no_toc }
 Kommand uses a command prompt style interface, a TUI if you will, and uses prefixes to access different commands.
 
