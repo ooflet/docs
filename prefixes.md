@@ -4,7 +4,7 @@ title: Prefix
 nav_order: 2
 description: "Prefix"
 parent: Quickstart
-permalink: /prefix
+permalink: /quickstart/prefix
 ---
 # Prefix
 {: .no_toc }
