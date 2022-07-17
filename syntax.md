@@ -3,7 +3,7 @@ layout: default
 title: Syntax
 nav_order: 2
 description: "Syntax"
-permalink: /
+permalink: /syntax
 ---
 # Kommand
 {: .no_toc }
