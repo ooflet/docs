@@ -11,6 +11,7 @@ permalink: /quickstart/prefix
 Prefixes are your main way of interacting with Kommand. They show which mode the command will be running in.
 
 ---
+## Prefix list
 
 | Prefix     | Description  |
 |:-----------|:-------------|
@@ -20,6 +21,8 @@ Prefixes are your main way of interacting with Kommand. They show which mode the
 | ?          | Help mode, run help wizard commands |
 
 ---
+
+## Notes
 
 - By default, Kommand opens with the Lua mode prefix (>) which allows you to execute lua code. This uses the `loadstring()` feature on your executor.  
 - System mode ( \* ) allows you to modify settings, and execute commands which modifies Kommand  
