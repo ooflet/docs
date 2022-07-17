@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Syntax
-nav_order: 3
-description: "Konsole Documentaion."
+nav_order: 2
+description: "Syntax"
 permalink: /
 ---
 # Kommand
