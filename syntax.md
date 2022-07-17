@@ -4,7 +4,7 @@ title: Syntax
 nav_order: 3
 description: "Syntax"
 parent: Quickstart
-permalink: /syntax
+permalink: /quickstart/syntax
 ---
 # Syntax
 {: .no_toc }
