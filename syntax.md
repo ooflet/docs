@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Syntax
 nav_order: 3
 description: "Konsole Documentaion."
 permalink: /
