@@ -22,6 +22,6 @@ Kommand is a merge between a Terminal and the Developer Console, allowing develo
 
 Simple, right? Those 2 are the only things that you interact with to use Kommand.
 
-[Prefixes >](https://ooflet.github.io/docs/prefix){: .btn .btn-blue }
+[Prefixes >](https://ooflet.github.io/docs/quickstart/prefix){: .btn .btn-blue }
 
 
