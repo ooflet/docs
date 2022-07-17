@@ -10,5 +10,5 @@ permalink: /quickstart
 
 Kommand has an easy-to-learn but effective interface.
 
-[Syntax >](https://ooflet.github.io/docs/syntax){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Basics >](https://ooflet.github.io/docs/basics){: .btn .btn-blue }
 
