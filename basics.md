@@ -4,7 +4,7 @@ title: Basics
 nav_order: 1
 description: "Basics"
 parent: Quickstart
-permalink: /basics
+permalink: /quickstart/basics
 ---
 # Basics
 {: .no_toc }
