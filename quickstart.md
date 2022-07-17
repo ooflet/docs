@@ -1,0 +1,12 @@
+---
+layout: default
+title: Quickstart
+nav_order: 2
+description: "Quickstart"
+has_children: true
+permalink: /quickstart
+---
+# Quickstart
+
+Kommand has an easy-to-learn but effective interface.
+
