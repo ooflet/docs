@@ -4,7 +4,8 @@ title: Commands
 nav_order: 3
 description: "Commands"
 has_children: true
-permalink: /Commands
+has_toc: false
+permalink: /commands
 ---
 # Commands
 
