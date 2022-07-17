@@ -4,6 +4,7 @@ title: Library
 nav_order: 4
 description: "Library"
 has_children: true
+has_toc: false
 permalink: /library
 ---
 # Kommand Library
