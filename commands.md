@@ -9,16 +9,9 @@ permalink: /commands
 
 Kommand has an array of useful commands to use.
 
-Useage:
-## Environment
-### Command Branch (if available)
-> `command`
-Description
-```lua
--- Example
-```
-
 ---
+
+Table Of Contents
 
 1. TOC
 {:toc}
@@ -26,8 +19,8 @@ Description
 ---
 
 ## Global
-
-> `clr`/`clear`
+---
+`clr`/`clear`
 Clears output.
 
 ---
@@ -35,7 +28,7 @@ Clears output.
 ## System `*`
 
 ### `settings`
-> `blur <boolean>`
+`blur <boolean>`
 Enables/Disables UI blur
 ```
 settings blur true
@@ -43,7 +36,7 @@ settings blur true
 
 ---
 
-> `safehop`/`serverhop`
+`safehop`/`serverhop`
 Disconnects the client before teleporting them back into the game, potentially into the same server.
 
 ---
@@ -51,26 +44,26 @@ Disconnects the client before teleporting them back into the game, potentially i
 ## Special `!`
 
 ### `moduleinstaller`
-> `install <string>`
+`install <string>`
 Calls `Lib.PluginInstaller.InstallFromRepository()`, which pulls and installs the module name provided from the Kommand Github repository
 ```
 moduleinstaller install module
 ```
-
-> `installfromlink <string>`
+---
+`installfromlink <string>`
 Calls `Lib.PluginInstaller.InstallFromLink()`, which pulls and installs the module from the link
 ```
 moduleinstaller installfromlink https://raw.githubusercontent/module/module/
 ```
-
+---
 ### `kommand`
 > `remotespy`
 Calls `Lib.RemoteSpy.Load()`, which if not installed, installs and executes the built-in RemoteSpy module made to integrate seamlessly with Kommand
 ```
 kommand remotespy
 ```
-
-> `dex`
+---
+`dex`
 Calls `Lib.Dex:Load()`, which if not installed, installs and executes the built-in Dex module
 ```
 kommand dex
