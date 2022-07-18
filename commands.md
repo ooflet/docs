@@ -30,6 +30,7 @@ Clears output.
 ## System `*`
 
 ## `settings`
+
 `blur <boolean>`
 Enables/Disables UI blur
 ```
@@ -46,6 +47,7 @@ Disconnects the client before teleporting them back into the game, potentially i
 ## Special `!`
 
 ## `moduleinstaller`
+
 `install <string>`
 Calls `Lib.PluginInstaller.InstallFromRepository()`, which pulls and installs the module name provided from the Kommand Github repository
 ```
@@ -59,6 +61,7 @@ moduleinstaller installfromlink https://raw.githubusercontent/module/module/
 ```
 ---
 ## `kommand`
+
 `remotespy`
 Calls `Lib.RemoteSpy.Load()`, which if not installed, installs and executes the built-in RemoteSpy module made to integrate seamlessly with Kommand
 ```
