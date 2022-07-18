@@ -10,6 +10,8 @@ permalink: /commands
 Kommand has an array of useful commands to use.
 
 ---
+{: .no_toc }
+
 <details open markdown="block">
   <summary>
     Table of contents
