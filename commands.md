@@ -53,7 +53,7 @@ Calls `Lib.PluginInstaller.InstallFromRepository()`, which pulls and installs th
 ```
 moduleinstaller install module
 ```
----
+
 `installfromlink <string>`
 Calls `Lib.PluginInstaller.InstallFromLink()`, which pulls and installs the module from the link
 ```
@@ -67,7 +67,7 @@ Calls `Lib.RemoteSpy.Load()`, which if not installed, installs and executes the 
 ```
 kommand remotespy
 ```
----
+
 `dex`
 Calls `Lib.Dex:Load()`, which if not installed, installs and executes the built-in Dex module
 ```
