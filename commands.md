@@ -59,7 +59,7 @@ moduleinstaller installfromlink https://raw.githubusercontent/module/module/
 ```
 ---
 ### `kommand`
-> `remotespy`
+`remotespy`
 Calls `Lib.RemoteSpy.Load()`, which if not installed, installs and executes the built-in RemoteSpy module made to integrate seamlessly with Kommand
 ```
 kommand remotespy
