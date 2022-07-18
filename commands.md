@@ -21,7 +21,7 @@ Kommand has an array of useful commands to use.
 ---
 
 ## Global
----
+
 `clr`/`clear`
 Clears output.
 
