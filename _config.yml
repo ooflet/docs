@@ -8,7 +8,5 @@ color_scheme: BetterDarkTheme
 search_enabled: false
 # Aux links for the upper right navigation
 aux_links:
-  <a href="https://scriptunc.org" style="height:max-content;" target="_blank">
-    <img style="width: 120px;height:auto;" alt="UNC Supported Badge" src="https://scriptunc.org/badge.png"/>
-  </a>:
-    - "https://scriptunc.org"
+  "Github":
+    - "https://github.com/ooflet/kommand"
