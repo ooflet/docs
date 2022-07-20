@@ -10,7 +10,10 @@ search_enabled: false
 aux_links:
   "Github":
     - "https://github.com/ooflet/kommand"
-footer_content: "Kommand utilises the UNC API"<a href="https://scriptunc.org" style="height:max-content;" target="_blank">
+footer_content: "Kommand utilises the UNC API"
+<body>
+<a href="https://scriptunc.org" style="height:max-content;" target="_blank">
     <img style="width: 120px;height:auto;" alt="UNC Supported Badge" src="https://scriptunc.org/badge.png"/>
 </a>
+</body>
 
